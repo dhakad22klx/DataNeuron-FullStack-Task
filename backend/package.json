@@ -1,0 +1,26 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.1"
+  },
+  "license": "ISC",
+  "name": "assignmentbackend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhakad22klx/AssignmentBackend.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/dhakad22klx/AssignmentBackend/issues"
+  },
+  "homepage": "https://github.com/dhakad22klx/AssignmentBackend#readme"
+}

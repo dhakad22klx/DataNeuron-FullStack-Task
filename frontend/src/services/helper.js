@@ -1,0 +1,1 @@
+export const BASE_URL = "https://assignmentbackend-2.onrender.com";
